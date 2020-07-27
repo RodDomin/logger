@@ -1,0 +1,18 @@
+{
+  "name": "proj-logger",
+  "version": "1.0.0",
+  "description": "customized logger for using in nodejs projects",
+  "main": "dist/index.js",
+  "repository": "aa",
+  "author": "rodrigo alves",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cli-color": "^2.0.0",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "cli-color": "^2.0.0",
+    "jest": "^26.1.0"
+  }
+}
